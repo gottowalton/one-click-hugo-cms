@@ -1,7 +1,7 @@
 ---
 title: ' '
 subtitle: ' '
-image: img/img_3235-3-.jpeg
+image: img/img_3233.jpeg
 blurb:
   heading: 'Gotto Walton Consulting '
   text: ' '
