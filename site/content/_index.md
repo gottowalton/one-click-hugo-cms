@@ -1,9 +1,9 @@
 ---
-title: Gotto Walton Consulting
+title: ' '
 subtitle: ' '
-image: img/img_3235-1-.jpeg
+image: img/img_3235-3-.jpeg
 blurb:
-  heading: ' '
+  heading: 'Gotto Walton Consulting '
   text: ' '
 intro:
   heading: ' '
